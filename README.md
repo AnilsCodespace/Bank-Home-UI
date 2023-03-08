@@ -1,4 +1,4 @@
-# bank_ui
+# Bank HomePage UI
 
 Bank UI Assignment
 ![image](https://user-images.githubusercontent.com/87460435/200133372-43f5593f-8467-4f88-aba8-39d7c88f6ab5.png)
